@@ -36,6 +36,13 @@
     margin-top: 10px;
 }
 
+.about_card_banner{
+    width: 30%;
+}
+.about_card_text{
+    width: 60%
+}
+
 @media only screen and (max-width: 991px) {
 /*Large tablets*/
 .cards{
@@ -81,6 +88,14 @@
 .footer_div{
     width: 100%;
 }
+.about_card_banner{
+    width: 80%;
+}
+
+.about_card_text{
+    width: 80%
+}
+
 }
 @media only screen and (max-width: 479px) {
 /*Phone*/
@@ -99,6 +114,12 @@
 }
 .footer_div{
     width: 100%;
+}
+.about_card_banner{
+    width: 80%;
+}
+.about_card_text{
+    width: 80%
 }
 }
 /*html,*/
